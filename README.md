@@ -1,6 +1,6 @@
 ## logistic-regression-bank-deposit
 
-
+**Business Problem:** An American bank wants to know which of it's future clients would subscribe to a term deposit or not. So we have to develop a machine learning model to predict whether the bank's client would subscribe to this term deposit or not. Here we made use of Logistic Regression ML Model.
 
 Attribute information For bank's dataset
 
